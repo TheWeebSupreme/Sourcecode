@@ -3502,7 +3502,7 @@ div.form-inner, .form-actions {
 /* Search */
 
 .esc-text:after,.keybind-KpFkfr:after {
-  content: "Made By NFLD99";
+  content: "Made By Weeb";
   font-size: 15px;
 }
 
